@@ -5,7 +5,7 @@ import joblib
 # =========================
 # 1. LOAD MODEL ONLY
 # =========================
-model = joblib.load("../models/best_insurance_model.pkl")
+model = joblib.load("models/best_insurance_model.pkl")
 
 # =========================
 # 2. PAGE CONFIG
